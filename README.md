@@ -2,4 +2,4 @@
 
 Experimenting with MD and GitHub Pages. Here be dragons.
 
-[link to new file](NewFile.md)
+[link to new file](SecondFile.md)
