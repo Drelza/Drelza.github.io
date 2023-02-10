@@ -1,5 +1,5 @@
 # Drelza.github.io
 
-Here be dragons
+Experimenting with MD and GitHub Pages. Here be dragons.
 
 [link to new file](NewFile.md)
